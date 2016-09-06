@@ -1,0 +1,8 @@
+README:
+
+Only need to edit:
+_config.yml
+index.html
+
+MORE INFO: 
+https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout
