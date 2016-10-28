@@ -6,3 +6,9 @@ index.html
 
 MORE INFO: 
 https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout
+
+EXPLANATION:
+index.html -- is the main page
+_layouts -- contains standard layouts referenced in "layout" header of other pages
+_pages -- contains content and urls for linked pages
+_posts -- contains blogposts for any page with layout="archive"
