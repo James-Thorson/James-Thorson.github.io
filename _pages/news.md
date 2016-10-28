@@ -3,7 +3,6 @@ layout: archive
 permalink: /year-archive/
 title: "News"
 author_profile: false
-permalink: /news.html
 ---
 
 {% include base_path %}
