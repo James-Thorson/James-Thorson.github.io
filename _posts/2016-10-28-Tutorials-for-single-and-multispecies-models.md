@@ -1,6 +1,7 @@
 ---
 title:  "Tutorials for single and multispecies models"
 excerpt: "testing"
+layout: default
 ---
 
 FishStats compiles different tools for harmonizing data for marine fishes worldwide, analyzing data to estimate abundance, distribution shift, range expansion, and spatial overlap, and also visualize results.  Recent additions to linked tools include:
