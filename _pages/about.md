@@ -3,6 +3,7 @@ title: "About FishStats"
 layout: single
 excerpt: "More information about FishStats"
 sitemap: false
+author_profile: false
 permalink: /about-us.html
 ---
 
