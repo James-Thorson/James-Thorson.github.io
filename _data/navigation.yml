@@ -3,6 +3,9 @@ main:
   - title: "Posts"
     url: /year-archive/
 
+  - title: "Recorded talks"
+    url: https://drive.google.com/drive/folders/0BwWtq3D1od8WWVNrc1NuQ3N3MjA?usp=sharing
+
   - title: "About"
     url: /about-us
 
