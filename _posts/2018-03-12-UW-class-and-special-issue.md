@@ -1,6 +1,6 @@
 ---
 title:  "UW class, CAPAM presentations, and Fish Res special issue"
-excerpt: "UW class, and updates"
+excerpt: "UW class announcement"
 layout: default
 ---
 
